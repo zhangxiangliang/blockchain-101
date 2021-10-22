@@ -2,7 +2,12 @@
 
 ## 基础信息
 
-[thegraph.com](https://thegraph.com/) ETH、IPFS 查询工具: 一个索引协议，用于查询以太坊和 IPFS 等网络。任何人都可以建立和发布开放的 API。
+[thegraph.com](https://thegraph.com) ETH、IPFS 查询工具: 一个索引协议，用于查询以太坊和 IPFS 等网络。任何人都可以建立和发布开放的 API。
+
+## 相关站点
+
+[Website](https://thegraph.com)
+[Github](https://github.com/graphprotocol)
 
 ## 一起成长
 

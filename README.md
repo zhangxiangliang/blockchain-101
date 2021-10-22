@@ -8,13 +8,13 @@
 
 ## 站点资源
 
-| 名称         | 简介               | 指南                                   | 网址                            | 中文 | 测试网络 |
-| ------------ | ------------------ | -------------------------------------- | ------------------------------- | ---- | -------- |
-| opensea.io   | ETH 数字交易所     | [传送门](./posts/site/opensea.io.md)   | [传送门](https://opensea.io/)   | ✔    | ✔        |
-| ens.domains  | ETH 域名服务       | [传送门](./posts/site/ens.domains.md)  | [传送门](https://ens.domains/)  | ✔    | ✔        |
-| etherscan.io | ETH 浏览器         | [传送门](./posts/site/etherscan.io.md) | [传送门](https://etherscan.io/) | ❌   | ✔        |
-| rainbow.me   | ETH 钱包、追踪工具 | [传送门](./posts/site/rainbow.me.md)   | [传送门](https://rainbow.me/)   | ❌   | ❌       |
-| thegraph.com | ETH、IPFS 查询工具 | [传送门](./posts/site/thegraph.com.md) | [传送门](https://thegraph.com/) | ❌   | ✔        |
+| 名称         | 简介               | 指南                                   | 网址                           | 中文 | 测试网络 |
+| ------------ | ------------------ | -------------------------------------- | ------------------------------ | ---- | -------- |
+| opensea.io   | ETH 数字交易所     | [传送门](./posts/site/opensea.io.md)   | [传送门](https://opensea.io)   | ✔    | ✔        |
+| ens.domains  | ETH 域名服务       | [传送门](./posts/site/ens.domains.md)  | [传送门](https://ens.domains)  | ✔    | ✔        |
+| etherscan.io | ETH 浏览器         | [传送门](./posts/site/etherscan.io.md) | [传送门](https://etherscan.io) | ❌   | ✔        |
+| rainbow.me   | ETH 钱包、追踪工具 | [传送门](./posts/site/rainbow.me.md)   | [传送门](https://rainbow.me)   | ❌   | ❌       |
+| thegraph.com | ETH、IPFS 查询工具 | [传送门](./posts/site/thegraph.com.md) | [传送门](https://thegraph.com) | ❌   | ✔        |
 
 ## 信息资源
 

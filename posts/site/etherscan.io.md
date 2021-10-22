@@ -2,7 +2,11 @@
 
 ## 基础信息
 
-[etherscan.io](https://etherscan.io/) ETH 浏览器: 用于查看 ETH 相关的交易记录、地址、代币、价格等信息。
+[etherscan.io](https://etherscan.io) ETH 浏览器: 用于查看 ETH 相关的交易记录、地址、代币、价格等信息。
+
+## 相关站点
+
+[Website](https://etherscan.io)
 
 ## 一起成长
 

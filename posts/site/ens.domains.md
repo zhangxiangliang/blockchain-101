@@ -2,7 +2,11 @@
 
 ## 基础信息
 
-[ens.domains](https://ens.domains/) ETH 域名服务: 用一串特地的域名来替代 ETH Address 方便用户记忆和使用。
+[ens.domains](https://ens.domains) ETH 域名服务: 用一串特地的域名来替代 ETH Address 方便用户记忆和使用。
+
+## 相关站点
+
+[Website](https://ens.domains)
 
 ## 一起成长
 

@@ -2,7 +2,11 @@
 
 ## 基础信息
 
-[rainbow.me](https://rainbow.me/) ETH 钱包、追踪工具: 专注 NFT 钱包管理的平台，建构于以太坊上，可跟踪您的 DeFi 和 NFT 活动。
+[rainbow.me](https://rainbow.me) ETH 钱包、追踪工具: 专注 NFT 钱包管理的平台，建构于以太坊上，可跟踪您的 DeFi 和 NFT 活动。
+
+## 相关站点
+
+[Website](https://rainbow.me)
 
 ## 一起成长
 
