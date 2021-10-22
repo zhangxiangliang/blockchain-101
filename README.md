@@ -14,13 +14,14 @@
 | ens.domains  | ETH 域名服务       | [传送门](./posts/site/ens.domains.md)  | [传送门](https://ens.domains/)  | ✔    | ✔        |
 | etherscan.io | ETH 浏览器         | [传送门](./posts/site/etherscan.io.md) | [传送门](https://etherscan.io/) | ❌   | ✔        |
 | rainbow.me   | ETH 钱包、追踪工具 | [传送门](./posts/site/rainbow.me.md)   | [传送门](https://rainbow.me/)   | ❌   | ❌       |
+| thegraph.com | ETH、IPFS 查询工具 | [传送门](./posts/site/thegraph.com.md) | [传送门](https://thegraph.com/) | ❌   | ✔        |
 
 ## 信息资源
 
-| 名称         | 推特                                          | Github                                   | 中文 |
-| ------------ | --------------------------------------------- | ---------------------------------------- | ---- |
-| Nader Dabit  | [传送门](https://twitter.com/dabit3)          | [传送门](https://github.com/dabit3)      | ❌   |
-| Andre Cronje | [传送门](https://twitter.com/AndreCronjeTech) | [传送门](https://github.com/andrecronje) | ❌   |
+| 名称         | 指南                                   | 推特                                          |
+| ------------ | -------------------------------------- | --------------------------------------------- |
+| Nader Dabit  | [传送门](./posts/user/nader-dabit.md)  | [传送门](https://twitter.com/dabit3)          |
+| Andre Cronje | [传送门](./posts/user/andre-cronje.md) | [传送门](https://twitter.com/AndreCronjeTech) |
 
 ## 一起成长
 
