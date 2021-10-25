@@ -1,13 +1,13 @@
-# The Graph
+# Ethereum
 
 ## 基础信息
 
-[thegraph.com](https://thegraph.com) ETH、IPFS 查询工具: 一个索引协议，用于查询以太坊和 IPFS 等网络。任何人都可以建立和发布开放的 API。
+[https://ethereum.org](https://https://ethereum.org) Ethereum 公链: 分布式的应用程序和市场的 Web 级区块链。
 
 ## 相关站点
 
-[Website](https://thegraph.com)
-[Github](https://github.com/graphprotocol)
+[Website](https://https://ethereum.org)
+[Github](https://github.com/ethereum)
 
 ## 一起成长
 
