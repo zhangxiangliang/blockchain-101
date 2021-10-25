@@ -6,7 +6,7 @@
 
 ## 相关站点
 
-- [DEV.TO](https://dev.to/dabit3)
+- [Dev](https://dev.to/dabit3)
 - [Github](https://github.com/dabit3)
 - [Twitter](https://twitter.com/dabit3)
 - [Youtube](https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g)
